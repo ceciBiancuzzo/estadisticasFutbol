@@ -1,0 +1,75 @@
+.my-custom-color {
+    background-color: #5E2CA5; /* Aquí puedes definir el color hexadecimal que desees */
+  }
+
+  .logo-impsa{
+    height: 100%;
+    width: auto;
+  }
+
+  .btn-editar{
+    background-color: #e067ae;
+  }
+  .btn-pdf{
+    background-color: #1b1820;
+  }
+  .btn-eliminar{
+    background-color: #40187c;
+  }
+
+  .table-listaU{
+    background-color: #451b88;
+  }
+  .btn-pdf{
+    background-color:#171718
+  }
+  .navbar-brand.custom-font-size {
+    font-size: 1.3rem; /* Ajusta el tamaño de la fuente según tus necesidades */
+  }
+
+  /* Ajustar tamaño de fuente para el texto dentro de NavDropdown */
+.navbar-nav .nav-link,
+.navbar-nav .dropdown-menu .dropdown-item {
+  font-size: 18px;
+}
+
+.center-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.btn-cerrar-sesion {
+  font-size: 14px;
+  padding: 4px 12px;
+ 
+}
+
+
+/* Estilos para hacer que el botón esté fijo en la esquina superior derecha */
+.cerrar-sesion-container {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 999; /* Asegura que el botón esté por encima de otros elementos */
+}
+
+/* Estilos para pantallas pequeñas (por ejemplo, hasta 768px) */
+@media (max-width: 768px) {
+  .btn-cerrar-sesion {
+    font-size: 12px;
+    padding: 2px 8px;
+  }
+}
+ /* Ajusta el posicionamiento para pantallas pequeñas */
+ .cerrar-sesion-container {
+  bottom: 55px;
+  right: 10px;
+}
+
+
+
+  
+  

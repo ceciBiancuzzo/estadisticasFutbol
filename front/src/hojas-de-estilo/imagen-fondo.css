@@ -1,0 +1,13 @@
+.imagen-de-fondo{
+    display: flex;
+     justify-content: center; 
+     align-items: center; 
+     height: 100vh;
+   
+}
+
+ .imagen img{
+    max-width: '80%';
+    max-width: '80%';
+    margin: auto;
+} 
